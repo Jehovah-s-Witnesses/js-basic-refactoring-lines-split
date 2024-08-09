@@ -1,6 +1,9 @@
-# template-vanilla
+# js-basic-refactoring-lines-split
 
-## Text
+## Fix lines in file.
+- Fix formatting in file
+- Rename variables
+- Fix types of variables
 
 ## We have a problem with loading script and access to html element due loading. Please, fix the place of script in html file
 
