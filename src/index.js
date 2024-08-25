@@ -1,18 +1,5 @@
-let a =
-prompt('Enter first number')
-;
+const firstNumber = +prompt('Enter first number');
 
-let
-b
-=
-prompt(`
+const secondNumber = +prompt(`Enter second number`);
 
-Enter second number
-`)
-;
-
-alert(
-
-
-`Your result is ${+a + +b}`
-)
+alert (`Your result is ${firstNumber + secondNumber}`);
